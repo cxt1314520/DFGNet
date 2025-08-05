@@ -8,7 +8,7 @@ Processed datasets METR-LA\PEMS-BAY: [GoogleDrive](https://drive.google.com/file
 
 
 
-Please put the processed dataset in the datasets directory.
+Please put the processed dataset in the data directory.
 ### RUN
 ```
 conda create -n DFGNet python==3.8
